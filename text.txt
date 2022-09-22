@@ -1,0 +1,3 @@
+Name = "Lucid Dreams" --* Application Name
+Ownerid = "bn4o71vQCH" --* OwnerID
+APPVersion = "1.0" --* Application Version
